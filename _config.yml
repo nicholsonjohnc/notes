@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
-
 title: Just the Docs
 description: A Jekyll theme for documentation
+
+remote_theme: pmarsceill/just-the-docs
